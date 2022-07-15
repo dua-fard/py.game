@@ -1,1 +1,1 @@
-# py.game creating a game using pygame
+# py.game creating a racing car game using pygame
